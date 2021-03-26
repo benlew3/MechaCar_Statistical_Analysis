@@ -26,7 +26,7 @@ In this statistical analysis, we can see that Lot 3 has the highest range of var
 ![t test](https://github.com/benlew3/MechaCar_Statistical_Analysis/blob/main/Images/t-test%20comparison.PNG)<br>
 Here we can see that the p-value is above .05 which means we cannot conclude that a significant difference exists when reading all three lots together. 
 ![lot 1](https://github.com/benlew3/MechaCar_Statistical_Analysis/blob/main/Images/Lot1.PNG)<br>
-For Lot 1, we see that the p-value is 1. This means we cannot conclude that a significant difference exists. 
+For Lot 1, we see that the p-value is 1. This means we cannot conclude that a significant difference exists. <br>
 ![lot 2](https://github.com/benlew3/MechaCar_Statistical_Analysis/blob/main/Images/Lot%202.PNG)<br>
 Lot 2's p-value is at .61, which means we cannot conclude that a significant difference exists. 
 ![lot 3](https://github.com/benlew3/MechaCar_Statistical_Analysis/blob/main/Images/lot%203.PNG)<br>
