@@ -15,7 +15,7 @@ In our statistical analysis, we can see that vehicle length and ground clearance
 
 ## Statistics on Suspension Coils
 #### PSI Statistical totals
-![PSI Statistics](https://github.com/benlew3/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.PNG)
+![PSI Statistics](https://github.com/benlew3/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.PNG)<br>
 #### PSI Statistics by lots
 ![PSI stats by lot](https://github.com/benlew3/MechaCar_Statistical_Analysis/blob/main/Images/Lot_Summary.PNG)
 
